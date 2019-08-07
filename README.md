@@ -1,4 +1,6 @@
 # ClusteringMapReduce
+
+This is my final year college project.
 Clustering using MapReduce in Hadoop
 
 
