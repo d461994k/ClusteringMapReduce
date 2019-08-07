@@ -1,0 +1,2 @@
+Generates random 2D points. Takes the number of points to generate as a command line argument.
+Currently the program generates four clusters of random points centered around different quadrants and one around the origin.
